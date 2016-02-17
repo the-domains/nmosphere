@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Nmosphere]]></title>
         <description><![CDATA[Nmosphere]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.nmosphere.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 09:32:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 09:32:47 GMT</lastBuildDate>
+        <atom:link href="http://www.nmosphere.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Home</p>]]></description>
+            <link>http://www.nmosphere.com/6abd5798-342c-4fbe-b26d-4875255ee485/index.html</link>
+            <guid isPermaLink="false">6abd5798-342c-4fbe-b26d-4875255ee485</guid>
+            <pubDate>Wed, 17 Feb 2016 09:32:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Brand Set Up	</p>]]></description>
-            <link>undefinedbe871a4e-a3e6-420d-884b-4fc3061647bb/index.html</link>
+            <link>http://www.nmosphere.com/be871a4e-a3e6-420d-884b-4fc3061647bb/index.html</link>
             <guid isPermaLink="false">be871a4e-a3e6-420d-884b-4fc3061647bb</guid>
             <pubDate>Wed, 17 Feb 2016 09:32:20 GMT</pubDate>
         </item>
